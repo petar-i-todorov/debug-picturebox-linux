@@ -1,5 +1,0 @@
-Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:7135
-Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5157
-Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
-Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
-Microsoft.Hosting.Lifetime: Information: Content root path: C:\support-apps-to-delete\programmatic-asp-net-core\programmatic-asp-net-core
